@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamudi Malsha</h1>
-<h3 align="center">A passionate Computer Engineering Undergraduate from Faculty of Engineering, University of Ruhuna</h3>
+<h3 align="center">A passionate Computer Engineering Undergraduate from the Faculty of Engineering, University of Ruhuna</h3>
 
 - 🤝 Connect with me on LinkedIn **www.linkedin.com/in/chamudi-malsha**
 
